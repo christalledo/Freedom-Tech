@@ -31,9 +31,6 @@ This website is created to let programmers ask meaning questions in hopes of sol
 
 ## Usage
 
-<img src = "./Note Taker - Google Chrome 10_25_2022 9_52_57 AM.png">
-<img src = "./Note Taker - Google Chrome 10_25_2022 9_53_04 AM.png>
-
 ## Credits
 
 This was coded by Christian Talledo.
